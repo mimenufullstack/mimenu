@@ -1,0 +1,135 @@
+@media screen and (max-width: 375px) {
+    .Registro_formulario-is {
+        position: absolute;
+        width: 254px;
+        height: 33px;
+        left: 61px;
+        top: 133px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 29px;
+        text-align: center;
+        color: #007DA4;
+    }
+
+    .Registro_formulario-u {
+        position: absolute;
+        width: 136px;
+        height: 16px;
+        left: 120px;
+        top: 220px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 200;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+        color: #686A6A;
+    }
+
+    .Registro_formulario-ui {
+        position: absolute;
+        width: 306px;
+        height: 10px;
+        left: 32px;
+        top: 252px;
+        border: 0.25px solid #686A6A;
+    }
+
+    .Registro_formulario-c {
+        position: absolute;
+        width: 136px;
+        height: 16px;
+        left: 124px;
+        top: 303px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+        color: #686A6A;
+    }
+
+    .Registro_formulario-ci {
+        position: absolute;
+        width: 306px;
+        height: 10px;
+        left: 32px;
+        top: 332px;
+        border: 0.25px solid #686A6A;
+    }
+
+    .Registro_formulario-oc {
+        position: absolute;
+        width: 187px;
+        height: 22px;
+        left: 94px;
+        top: 367px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 11px;
+        line-height: 13px;
+        text-align: center;
+        color: #686A6A;
+    }
+
+    .Registro_formulario-rc {
+        position: absolute;
+        width: 104px;
+        height: 22px;
+        left: 92px;
+        top: 436px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+        color: #686A6A;
+    }
+
+    .Registro_formulario-chbx {
+        position: absolute;
+        width: 15px;
+        height: 15px;
+        left: 259px;
+        top: 433px;
+    }
+
+    .Registro_formulario-boton {
+        position: absolute;
+        width: 246px;
+        height: 35px;
+        left: 65px;
+        top: 525px;
+        background: #007DA4;
+        mix-blend-mode: normal;
+        border-radius: 20px;
+        color: white;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .Registro_formulario-r {
+        position: absolute;
+        width: 187px;
+        height: 22px;
+        left: 94px;
+        top: 579px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 12px;
+        line-height: 14px;
+        text-align: center;
+        color: #686A6A;
+    }
+
+    .Registrate {
+        color:blue;
+    }
+}

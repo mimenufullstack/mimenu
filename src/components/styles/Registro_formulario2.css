@@ -1,0 +1,166 @@
+@media screen and (max-width: 375px) {
+    .Registro_formulario2-itd {
+        position: absolute;
+        width: 254px;
+        height: 33px;
+        left: 61px;
+        top: 137px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 29px;
+        text-align: center;
+        color: #007DA4;
+    }
+
+    p {
+        color: red;
+    }
+
+    .Registro_formulario2-n {
+        position: absolute;
+        width: 136px;
+        height: 16px;
+        left: 49px;
+        top: 224px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 16px;
+        color: #686A6A;
+    }
+
+    #ast {
+        color: red;
+    }
+
+    .Registro_formulario2-ni {
+        position: absolute;
+        width: 300px;
+        height: 10px;
+        left: 38px;
+        top: 272px;
+        border: 0.25px solid #686A6A;
+    }
+
+    .Registro_formulario2-a {
+        position: absolute;
+        width: 136px;
+        height: 16px;
+        left: 50px;
+        top: 309px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 16px;
+        color: #686A6A;
+    }
+
+    .Registro_formulario2-ai {
+        position: absolute;
+        width: 300px;
+        height: 10px;
+        left: 38px;
+        top: 355px;
+        border: 0.25px solid #686A6A;
+    }
+
+    .Registro_formulario2-ce {
+        position: absolute;
+        width: 136px;
+        height: 16px;
+        left: 50px;
+        top: 390px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 16px;
+        color: #686A6A;
+    }
+
+    .Registro_formulario2-cei {
+        position: absolute;
+        width: 300px;
+        height: 10px;
+        left: 38px;
+        top: 442px;
+        border: 0.25px solid #686A6A;
+    }
+
+    .Registro_formulario2-c {
+        position: absolute;
+        width: 90px;
+        height: 13px;
+        left: 54px;
+        top: 477px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 16px;
+        color: #686A6A;
+    }
+
+    .Registro_formulario2-cc {
+        position: absolute;
+        width: 170px;
+        height: 16px;
+        left: 190px;
+        top: 477px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 16px;
+        color: #686A6A;
+    }
+
+    .Registro_formulario2-ci {
+        position: absolute;
+        width: 122px;
+        height: 10px;
+        left: 38px;
+        top: 534px;
+        border: 0.25px solid #686A6A;
+    }
+
+    .Registro_formulario2-cci {
+        position: absolute;
+        width: 140px;
+        height: 10px;
+        left: 198px;
+        top: 534px;
+        border: 0.25px solid #686A6A;
+    }
+
+    .Registro_formulario2-cr {
+        position: absolute;
+        width: 150px;
+        height: 13px;
+        left: 128px;
+        top: 586px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .Registro_formulario2-boton {
+        position: absolute;
+        width: 246px;
+        height: 35px;
+        left: 63px;
+        top: 614px;
+        background: #007DA4;
+        mix-blend-mode: normal;
+        border-radius: 20px;
+        color: white;
+        text-align: center;
+        justify-content: center;
+    }
+}

@@ -1,0 +1,329 @@
+@media screen and (max-width: 375px) {
+    .Ver_lista_menu-lm {
+        position: absolute;
+        width: 187px;
+        height: 31px;
+        left: 94px;
+        top: 134px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 29px;
+        text-align: center;
+        color: #007DA4;
+    }
+
+    .Ver_lista_menu-smn {
+        position: absolute;
+        width: 134px;
+        height: 11px;
+        left: 59px;
+        top: 198px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 9px;
+        line-height: 11px;
+        /* identical to box height */
+        color: #686A6A;
+    }
+
+    .Ver_lista_menu-rb1 {
+        position: absolute;
+        width: 12px;
+        height: 13px;
+        left: 38px;
+        top: 232px;
+    }
+
+    .Ver_lista_menu-d1 {
+        position: absolute;
+        width: 110px;
+        height: 20px;
+        left: 59px;
+        top: 227px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 23px;
+        color: #007DA4;
+    }
+
+    .Ver_lista_menu-bsr {
+        position: absolute;
+        width: 17px;
+        height: 22px;
+        left: 319px;
+        top: 223px;
+    }
+
+    .Ver_lista_menu-sps {
+        position: absolute;
+        width: 56px;
+        height: 13px;
+        left: 79px;
+        top: 258px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 21px;
+        color: #007DA4;
+    }
+
+    .Ver_lista_menu-rb2 {
+        position: absolute;
+        width: 12px;
+        height: 13px;
+        left: 59px;
+        top: 290px;
+    }
+
+    .Ver_lista_menu-sv {
+        position: absolute;
+        width: 259px;
+        height: 82px;
+        left: 79px;
+        top: 288px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 18px;
+        color: #686A6A;
+    }
+
+    .Ver_lista_menu-rb3 {
+        position: absolute;
+        width: 12px;
+        height: 13px;
+        left: 59px;
+        top: 326px;
+    }
+
+    .Ver_lista_menu-sl {
+        position: absolute;
+        width: 259px;
+        height: 82px;
+        left: 79px;
+        top: 324px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 18px;
+        color: #686A6A;
+    }
+
+    .Ver_lista_menu-rb4 {
+        position: absolute;
+        width: 12px;
+        height: 13px;
+        left: 59px;
+        top: 362px;
+    }
+
+    .Ver_lista_menu-sp {
+        position: absolute;
+        width: 259px;
+        height: 82px;
+        left: 79px;
+        top: 360px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 18px;
+        color: #686A6A;
+    }
+
+    .Ver_lista_menu-pf {
+        position: absolute;
+        width: 148px;
+        height: 17px;
+        left: 79px;
+        top: 396px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 21px;
+        color: #007DA4;
+    }
+
+    .Ver_lista_menu-rb5 {
+        position: absolute;
+        width: 12px;
+        height: 13px;
+        left: 59px;
+        top: 429px;
+    }
+
+    .Ver_lista_menu-pb {
+        position: absolute;
+        width: 259px;
+        height: 82px;
+        left: 79px;
+        top: 427px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 18px;
+        color: #686A6A;
+    }
+
+    .Ver_lista_menu-rb6 {
+        position: absolute;
+        width: 12px;
+        height: 13px;
+        left: 59px;
+        top: 465px;
+    }
+
+    .Ver_lista_menu-caefr {
+        position: absolute;
+        width: 214px;
+        height: 82px;
+        left: 79px;
+        top: 463px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 18px;
+        color: #686A6A;
+    }
+
+    .Ver_lista_menu-rb7 {
+        position: absolute;
+        width: 12px;
+        height: 13px;
+        left: 58px;
+        top: 519px;
+    }
+
+    .Ver_lista_menu-fp {
+        position: absolute;
+        width: 259px;
+        height: 82px;
+        left: 79px;
+        top: 517px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 18px;
+        color: #686A6A;
+    }
+
+    .Ver_lista_menu-rb8 {
+        position: absolute;
+        width: 12px;
+        height: 13px;
+        left: 38px;
+        top: 550px;
+    }
+
+    .Ver_lista_menu-d2 {
+        position: absolute;
+        width: 108px;
+        height: 19px;
+        left: 59px;
+        top: 546px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 23px;
+        color: #007DA4;
+    }
+
+    .Ver_lista_menu-sps2 {
+        position: absolute;
+        width: 62px;
+        height: 24px;
+        left: 78px;
+        top: 579px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 21px;
+        color: #007DA4;
+    }
+
+    .Ver_lista_menu-rb9 {
+        position: absolute;
+        width: 12px;
+        height: 13px;
+        left: 59px;
+        top: 612px;
+    }
+
+    .Ver_lista_menu-sm {
+        position: absolute;
+        width: 153px;
+        height: 26px;
+        left: 78px;
+        top: 609px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 18px;
+        color: #686A6A;
+    }
+
+    .Ver_lista_menu-container {
+        position: absolute;
+        width: 375px;
+        height: 24px;
+        left: 0px;
+        top: 646px;
+        background-color: rgba(0, 125, 164, 0.4);
+        mix-blend-mode: normal;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .Ver_lista_menu-bsrvcns {
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+        color: white;
+    }
+
+    .Ver_lista_menu-cc {
+        position: absolute;
+        width: 171px;
+        height: 11px;
+        left: 102px;
+        top: 682px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 11px;
+        line-height: 13px;
+        text-align: center;
+        color: #686A6A;
+    }
+
+    .Ver_lista_menu-boton {
+        position: absolute;
+        width: 375px;
+        height: 38px;
+        left: 0px;
+        top: 704px;
+        background: #007DA4;
+        mix-blend-mode: normal;
+        color: white;
+        text-align: center;
+        justify-content: center;
+    }
+}

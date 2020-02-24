@@ -1,0 +1,42 @@
+@media screen and (max-width: 375px) {
+    .Ver_lista_menu-container2 {
+        position: absolute;
+        width: 375px;
+        height: 72px;
+        left: 0px;
+        top: 742px;
+        background: #EBEBEB;
+    }
+    
+    .Ver_lista_menu-cs {
+        position: absolute;
+        width: 24px;
+        height: 20px;
+        left: 72px;
+        top: 30px;
+    }
+    
+    .Ver_lista_menu-crzn {
+        position: absolute;
+        width: 24px;
+        height: 20px;
+        left: 37.07%;
+        top: 30px;
+    }
+    
+    .Ver_lista_menu-crrt {
+        position: absolute;
+        width: 24px;
+        height: 20px;
+        left: 54.67%;
+        top: 30px;
+    }
+    
+    .Ver_lista_menu-search {
+        position: absolute;
+        width: 24px;
+        height: 20px;
+        left: 278px;
+        top: 30px;
+    }
+}

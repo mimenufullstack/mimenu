@@ -1,0 +1,278 @@
+@media screen and (max-width: 375px) {
+    .Home-al {
+        position: absolute;
+        width: 80px;
+        height: 30px;
+        left: 5px;
+        top: 142px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 26px;
+        text-align: center;
+        color: #007DA4;
+        mix-blend-mode: normal;
+    }
+
+    .Home-may1 {
+        position: absolute;
+        width: 43px;
+        height: 17px;
+        left: 86px;
+        top: 144px;
+        font-family: Roboto;
+        font-style: italic;
+        font-weight: 300;
+        font-size: 11px;
+        line-height: 13px;
+        text-align: center;
+    }
+
+    .Home-may2 {
+        position: absolute;
+        width: 37px;
+        height: 16px;
+        left: 129px;
+        top: 144px;
+        font-family: Roboto;
+        font-style: italic;
+        font-weight: 300;
+        font-size: 11px;
+        line-height: 13px;
+        text-align: center;
+    }
+
+    .Home-may3 {
+        position: absolute;
+        width: 37px;
+        height: 16px;
+        left: 168px;
+        top: 144px;
+        font-family: Roboto;
+        font-style: italic;
+        font-weight: 300;
+        font-size: 11px;
+        line-height: 13px;
+        text-align: center;
+    }
+
+    .Home-may4 {
+        position: absolute;
+        width: 37px;
+        height: 16px;
+        left: 209px;
+        top: 144px;
+        font-family: Roboto;
+        font-style: italic;
+        font-weight: 300;
+        font-size: 11px;
+        line-height: 13px;
+        text-align: center;
+    }
+
+    .Home-may5 {
+        position: absolute;
+        width: 37px;
+        height: 16px;
+        left: 251px;
+        top: 144px;
+        font-family: Roboto;
+        font-style: italic;
+        font-weight: 300;
+        font-size: 11px;
+        line-height: 13px;
+        text-align: center;
+    }
+
+    .Home-ar {
+        position: absolute;
+        width: 80px;
+        height: 30px;
+        left: 292px;
+        top: 142px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 26px;
+        text-align: center;
+        color: #007DA4;
+        mix-blend-mode: normal;
+    }
+
+    .Home-e1 {
+        position: absolute;
+        width: 17px;
+        height: 16px;
+        left: 99px;
+        top: 160px;
+        box-sizing: border-box;
+    }
+
+    .Home-e2 {
+        position: absolute;
+        width: 17px;
+        height: 16px;
+        left: 139px;
+        top: 160px;
+    }
+
+    .Home-e3 {
+        position: absolute;
+        width: 17px;
+        height: 16px;
+        left: 178px;
+        top: 160px;
+    }
+
+    .Home-e4 {
+        position: absolute;
+        width: 17px;
+        height: 16px;
+        left: 218px;
+        top: 160px;
+    }
+
+    .Home-e5 {
+        position: absolute;
+        width: 17px;
+        height: 16px;
+        left: 258px;
+        top: 160px;
+    }
+
+    .Home-pollotxt {
+        position: absolute;
+        width: 234px;
+        height: 33px;
+        left: 39px;
+        top: 212px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 29px;
+        color: #007DA4;
+    }
+
+    .Home-polloimg {
+        position: absolute;
+        width: 296px;
+        height: 292px;
+        left: 41px;
+        top: 246px;
+    }
+
+    .Home-container {
+        position: absolute;
+        width: 101px;
+        height: 84px;
+        left: 23px;
+        top: 322px;
+        background: #F2F2F2;
+    }
+
+    .Home-span {
+        position: absolute;
+        width: 100px;
+        height: 14px;
+        left: 1px;
+        top: 5px;
+        font-family: Roboto;
+        font-style: italic;
+        font-weight: 300;
+        font-size: 11px;
+        line-height: 13px;
+        text-align: center;
+    }
+
+    .Home-a1 {
+        position: absolute;
+        width: 43px;
+        height: 14px;
+        left: 30px;
+        top: 21px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 12px;
+        line-height: 14px;
+        text-align: center;
+    }
+
+    .Home-a2 {
+        position: absolute;
+        width: 47px;
+        height: 14px;
+        left: 28px;
+        top: 42px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 12px;
+        line-height: 14px;
+        text-align: center;
+    }
+
+    .Home-a3 {
+        position: absolute;
+        width: 29px;
+        height: 14px;
+        left: 35px;
+        top: 60px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 12px;
+        line-height: 14px;
+        text-align: center;
+    }
+
+    .Home-container2 {
+        position: absolute;
+        width: 296px;
+        height: 33px;
+        left: 41px;
+        top: 538px;
+        background: #EBEBEB;
+    }
+
+    .Home-crzn {
+        position: absolute;
+        left: 76%;
+        right: 19.73%;
+        top: 35%;
+    }
+
+    .Home-cmprtr {
+        position: absolute;
+        right: 20px;
+        top: 35%;
+    }
+
+    .Home-e6 {
+        position: absolute;
+        width: 10px;
+        height: 9px;
+        left: 160px;
+        top: 583px;
+    }
+
+    .Home-e7 {
+        position: absolute;
+        width: 10px;
+        height: 9px;
+        left: 184px;
+        top: 583px;
+    }
+
+    .Home-e8 {
+        position: absolute;
+        width: 10px;
+        height: 9px;
+        left: 208px;
+        top: 583px;
+    }
+
+}

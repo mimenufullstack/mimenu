@@ -1,0 +1,49 @@
+@media screen and (max-width: 375px) {
+    .Inicio {
+        position: absolute;
+        left: 0%;
+        right: 0%;
+        top: 0%;
+        bottom: 10.34%;
+        background-image: url(../../images/Fondo.png);
+        background-repeat: no-repeat;
+    }
+
+    .Inicio-miMenu {
+        position: absolute;
+        left: 15.2%;
+        right: 15.47%;
+        top: 17.61%;
+        bottom: 71.06%;
+    }
+
+    .Inicio-logo {
+        position: absolute;
+        left: 16.53%;
+        right: 16.8%;
+        top: 73.89%;
+        bottom: 18.72%;
+    }
+
+    .Inicio-c {
+        position: absolute;
+        left: 40.12%;
+        right: 57.97%;
+        top: 82.88%;
+        bottom: 16.26%;
+    }
+
+    .Inicio-c-tdr {
+        position: absolute;
+        left: 42.58%;
+        right: 34.19%;
+        top: 82.88%;
+        bottom: 16.75%;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300px;
+        font-size: 6px;
+        line-height: 7px;
+        text-align: center;
+    }
+}

@@ -1,0 +1,198 @@
+@media screen and (max-width: 375px) {
+    .Mostrar_pedido-mp {
+        position: absolute;
+        width: 187px;
+        height: 31px;
+        left: 94px;
+        top: 131px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 25px;
+        line-height: 29px;
+        text-align: center;
+        color: #007DA4;
+    }
+
+    .Mostrar_pedido-smn {
+        position: absolute;
+        width: 134px;
+        height: 11px;
+        left: 38px;
+        top: 193px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 9px;
+        line-height: 11px;
+        color: #686A6A;
+    }
+
+    .Mostrar_pedido-cnsms {
+        position: absolute;
+        width: 114px;
+        height: 21px;
+        left: 40px;
+        top: 224px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 23px;
+        color: #007DA4;
+    }
+
+    .Mostrar_pedido-ttl {
+        position: absolute;
+        width: 51px;
+        height: 21px;
+        left: 251px;
+        top: 223px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 23px;
+        color: #007DA4;
+    }
+
+    .Mostrar_pedido-ttlnum {
+        position: absolute;
+        width: 37px;
+        height: 35px;
+        left: 303px;
+        top: 216px;
+        background: #007DA4;
+        mix-blend-mode: normal;
+        border-radius: 20px;
+        text-align: center;
+        justify-content: center;
+        color: white;
+    }
+
+    .Mostrar_pedido-rectangle {
+        position: absolute;
+        width: 300px;
+        height: 377px;
+        left: 38px;
+        top: 271px;
+        background: rgba(196, 196, 196, 0.4);
+        mix-blend-mode: normal;
+        border-radius: 20px;
+    }
+
+    .Mostrar_pedido-rectangle > p {
+        position: absolute;
+        width: 150px;
+        left: 53px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 16px;
+        color: #686A6A;
+    }
+
+    .Mostrar_pedido-txt1 {
+        position: absolute;
+        top: 3px;
+        left: 40px;
+    }
+
+    .Mostrar_pedido-txt2 {
+        top: 18px;
+    }
+
+    .Mostrar_pedido-txt3 {
+        top: 33px;
+    }
+
+    .Mostrar_pedido-txt4 {
+        top: 63px;
+    }
+
+    .Mostrar_pedido-txt5 {
+        top: 78px;
+    }
+
+    .Mostrar_pedido-txt6 {
+        top: 93px;
+    }
+
+    .Mostrar_pedido-txt7 {
+        top: 123px;
+    }
+
+    .Mostrar_pedido-txt8 {
+        top: 138px;
+    }
+
+    .Mostrar_pedido-txt9 {
+        top: 153px;
+    }
+
+    .Mostrar_pedido-txt10 {
+        top: 198px;
+    }
+
+    .Mostrar_pedido-txt11 {
+        top: 213px;
+    }
+
+    .Mostrar_pedido-txt12 {
+        top: 228px;
+    }
+
+    .Mostrar_pedido-txt13 {
+        top: 258px;
+    }
+
+    .Mostrar_pedido-txt14 {
+        top: 273px;
+    }
+
+    .Mostrar_pedido-txt15 {
+        top: 288px;
+    }
+
+    .Mostrar_pedido-ps {
+        position: absolute;
+        width: 106px;
+        height: 21px;
+        left: 228px;
+        top: 665px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 23px;
+        color: #007DA4;
+    }
+
+    .Mostrar_pedido-subcontainer {
+        position: absolute;
+        width: 95px;
+        height: 24px;
+        left: 243px;
+        top: 663px;
+        background: #007DA4;
+        mix-blend-mode: normal;
+        border-radius: 7px;
+        color: white;
+        text-align: center;
+        justify-content: center;
+    }
+
+    .Mostrar_pedido-boton {
+        position: absolute;
+        width: 375px;
+        height: 38px;
+        left: 0px;
+        top: 700px;
+        background: #007DA4;
+        mix-blend-mode: normal;
+        color: white;
+        text-align: center;
+        justify-content: center;
+    }
+}

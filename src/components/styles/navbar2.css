@@ -1,0 +1,27 @@
+@media screen and (max-width: 375px) {
+    .Navbar2 {
+        position: absolute;
+        width: 375px;
+        height: 107px;
+        left: 0px;
+        top: -5px;
+        background-color: #007DA4;
+    }
+
+    .Navbar2_arrow {
+        position: absolute;
+        width: 17px;
+        height: 0px;
+        left: 57px;
+        top: 62px;
+        border: 2px solid #FFFFFF;
+        box-sizing: border-box;
+        transform: rotate(180deg);
+    }
+
+    .Navbar2_mimenu {
+        position: absolute;
+        left: 35%;
+        top: 53px;
+    }
+}

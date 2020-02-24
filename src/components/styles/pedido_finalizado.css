@@ -1,0 +1,22 @@
+@media screen and (max-width: 375px) {
+    .Pedido_finalizado-container {
+        position: absolute;
+        display: block;
+        width: 299px;
+        height: 377px;
+        left: 38px;
+        top: 233px;
+        background: rgba(196, 196, 196, 0.4);
+        mix-blend-mode: normal;
+        border-radius: 20px;
+    }
+
+    .Pedido_finalizado-gracias {
+        position: absolute;
+        width: 170px;
+        height: 126px;
+        left: 70px;
+        top: 126px;
+        text-align: center;
+    }
+}
